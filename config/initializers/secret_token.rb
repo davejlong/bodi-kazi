@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-BodyKazi::Application.config.secret_key_base = '491bbe65a2e057b761ab9316f941ba166c922de8f4be08a8626df63b4fa2c3f43af7bc6e08b72ba2593e91a7a764f98f2dc951f212df79dea5b57317c1e768d7'
+BodiKazi::Application.config.secret_key_base = '491bbe65a2e057b761ab9316f941ba166c922de8f4be08a8626df63b4fa2c3f43af7bc6e08b72ba2593e91a7a764f98f2dc951f212df79dea5b57317c1e768d7'

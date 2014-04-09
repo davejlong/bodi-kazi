@@ -11,7 +11,7 @@ require "sprockets/railtie"
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-module BodyKazi
+module BodiKazi
   class Application < Rails::Application
 
     # don't generate RSpec tests for views and helpers

@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-BodyKazi::Application.load_tasks
+BodiKazi::Application.load_tasks

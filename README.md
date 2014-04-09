@@ -1,67 +1,8 @@
-Body Kazi
+Bodi Kazi
 =========
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
-
-Diagnostics
------------
-
-This application was built with recipes that are known to work together.
-
-This application was built with preferences that are NOT known to work
-together.
-
-If the application doesn’t work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
-and include these diagnostics:
-
-We’d also like to know if you’ve found combinations of recipes or
-preferences that do work together.
-
-Recipes:
-
-* apps4
-* controllers
-* core
-* email
-* extras
-* frontend
-* gems
-* git
-* init
-* models
-* prelaunch
-* railsapps
-* readme
-* routes
-* saas
-* setup
-* testing
-* views
-
-Preferences:
-
-* git: true
-* apps4: none
-* dev_webserver: puma
-* prod_webserver: puma
-* database: postgresql
-* templates: haml
-* unit_test: rspec
-* integration: cucumber
-* continuous_testing: guard
-* fixtures: factory_girl
-* frontend: foundation5
-* email: smtp
-* authentication: devise
-* devise_modules: invitable
-* authorization: cancan
-* form_builder: simple_form
-* starter_app: none
-* rvmrc: false
-* quiet_assets: true
-* local_env_file: foreman
-* better_errors: true
 
 Ruby on Rails
 -------------
