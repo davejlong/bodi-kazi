@@ -1,6 +1,9 @@
 Bodi Kazi
 =========
 
+[![Code
+Climate](https://codeclimate.com/github/davejlong/bodi-kazi.png)](https://codeclimate.com/github/davejlong/bodi-kazi)
+
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
 
