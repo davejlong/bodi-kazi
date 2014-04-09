@@ -4,7 +4,7 @@ Bodi Kazi
 [![Code
 Climate](https://codeclimate.com/github/davejlong/bodi-kazi.png)](https://codeclimate.com/github/davejlong/bodi-kazi)
 
-[[![CodeShip](http://codeship.io)](https://www.codeship.io/projects/098a8c10-a1ba-0131-a163-46e13967588c/status)
+[![CodeShip](http://codeship.io)](https://www.codeship.io/projects/098a8c10-a1ba-0131-a163-46e13967588c/status)
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
